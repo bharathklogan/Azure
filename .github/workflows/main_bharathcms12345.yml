@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'bharathcms12345'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b211a25df456477887fdc00008c47caf }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3638a3c475b949ccb310caa7cbd0fcd5 }}
